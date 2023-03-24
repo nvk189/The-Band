@@ -502,8 +502,9 @@ background-color: #fff;
 /* map */
 .map-section{
  
- padding-right :32px;
+
  width:100%;
+ padding-right: 50px;
 }   
  /* footer section */
 #footer{
